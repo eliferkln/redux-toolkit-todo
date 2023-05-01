@@ -13,6 +13,10 @@
     rgba(17, 17, 26, 0.05) 0px 8px 32px;
   border-radius: 20px;
   border: none;
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translateY(-50%);
 }
 .container h1 {
   color: #7868e6;
